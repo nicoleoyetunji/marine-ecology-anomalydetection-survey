@@ -1,0 +1,26 @@
+# Inclusion and exclusion criteria
+
+Eligibility criteria applied during the systematic screening process to determine which publications were included in the review. The same criteria were applied at title and abstract screening and at full-text screening. A publication was included only if it met all four inclusion criteria and none of the exclusion criteria.
+
+## Inclusion criteria
+
+1. The publication is in English.
+2. The research focuses on anomaly detection in marine ecology, specifically detecting anomalies in:
+   - (a) Organism behaviour or movement patterns
+   - (b) Biological or ecological events
+   - (c) Biological or ecological data quality
+3. The research objectives are explicitly stated, and the statistical analysis is suitable for addressing the study's research questions and objectives.
+4. Anomaly detection methods are applied and evaluated, with the experimental design outlined and results presented.
+
+## Exclusion criteria
+
+1. The article is not written in English.
+2. The focus is not on biological or ecological anomalies in marine systems (for example, studies focused solely on physical habitat characterisation, geophysical features, or maritime operations without ecological context).
+3. Anomaly detection methods are not applied or evaluated.
+4. The research objectives are not clearly defined.
+5. The research does not include a defined methodology for anomaly detection, or lacks sufficient detail in its experimental design.
+6. The statistical analysis and conclusions are not robust or reproducible.
+
+## Where the decisions are recorded
+
+The decision for each record, with the reason for each exclusion, is in `data/02_screening/screening_deduplicated.xlsx`.
