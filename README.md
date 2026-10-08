@@ -5,6 +5,9 @@ Supplementary data and code for the systematic literature review:
 **Anomaly Detection in Marine Ecology: A Survey, Best Practices, and Future Trends**
 Nicole Oyetunji, Marcellin Atemkeng, Taryn S. Murray, Siphendulwe Zaza.
 
+An archived, citable version of this repository is available on Zenodo:
+DOI: 10.5281/zenodo.23228441
+
 
 ## What this repository contains
 
@@ -34,7 +37,7 @@ This repository holds the records retrieved from each database, the deduplicated
 
 ## Search
 
-Four databases were last searched on 29 September 2026.
+Four databases were last searched on 2026-09-29
 
 | Database | Search string | Records retrieved |
 |---|---|---|
